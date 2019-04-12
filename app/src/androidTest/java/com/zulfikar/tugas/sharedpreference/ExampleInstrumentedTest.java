@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference;
+package com.zulfikar.tugas.sharedpreference;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

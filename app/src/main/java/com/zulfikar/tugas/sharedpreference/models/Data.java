@@ -1,7 +1,4 @@
-package com.example.rose.sharedpreference.models;
-
-import com.example.rose.sharedpreference.models.Note;
-import com.example.rose.sharedpreference.models.User;
+package com.zulfikar.tugas.sharedpreference.models;
 
 import java.util.ArrayList;
 import java.util.Date;

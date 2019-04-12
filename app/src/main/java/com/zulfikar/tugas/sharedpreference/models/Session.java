@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference.models;
+package com.zulfikar.tugas.sharedpreference.models;
 
 public class Session {
     private Settings settings;

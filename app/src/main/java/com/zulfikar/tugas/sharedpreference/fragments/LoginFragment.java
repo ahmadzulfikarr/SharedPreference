@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference.fragments;
+package com.zulfikar.tugas.sharedpreference.fragments;
 
 
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.rose.sharedpreference.R;
+import com.zulfikar.tugas.sharedpreference.R;
 
 /**
  * A simple {@link Fragment} subclass.

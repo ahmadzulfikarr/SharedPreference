@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference.models;
+package com.zulfikar.tugas.sharedpreference.models;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

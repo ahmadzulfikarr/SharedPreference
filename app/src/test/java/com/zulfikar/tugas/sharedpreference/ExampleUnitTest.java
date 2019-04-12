@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference;
+package com.zulfikar.tugas.sharedpreference;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference;
+package com.zulfikar.tugas.sharedpreference;
 
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -9,13 +9,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.example.rose.sharedpreference.fragments.LoginFragment;
-import com.example.rose.sharedpreference.fragments.NoteFragment;
-import com.example.rose.sharedpreference.fragments.SettingsFragment;
-import com.example.rose.sharedpreference.models.Note;
-import com.example.rose.sharedpreference.models.Session;
-import com.example.rose.sharedpreference.models.Settings;
-import com.example.rose.sharedpreference.models.User;
+import com.zulfikar.tugas.sharedpreference.fragments.LoginFragment;
+import com.zulfikar.tugas.sharedpreference.fragments.NoteFragment;
+import com.zulfikar.tugas.sharedpreference.fragments.SettingsFragment;
+import com.zulfikar.tugas.sharedpreference.models.Session;
+import com.zulfikar.tugas.sharedpreference.models.Settings;
+import com.zulfikar.tugas.sharedpreference.models.User;
 
 public class MainActivity extends AppCompatActivity implements LoginFragment.OnLoginFragmentListener
         ,NoteFragment.OnNoteFragmentListener

@@ -1,4 +1,4 @@
-package com.example.rose.sharedpreference.adapters;
+package com.zulfikar.tugas.sharedpreference.adapters;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -12,10 +12,10 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.example.rose.sharedpreference.models.Constant;
-import com.example.rose.sharedpreference.R;
-import com.example.rose.sharedpreference.models.Note;
-import com.example.rose.sharedpreference.models.Settings;
+import com.zulfikar.tugas.sharedpreference.models.Constant;
+import com.zulfikar.tugas.sharedpreference.R;
+import com.zulfikar.tugas.sharedpreference.models.Note;
+import com.zulfikar.tugas.sharedpreference.models.Settings;
 
 import java.util.List;
 

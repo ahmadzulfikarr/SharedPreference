@@ -1,9 +1,9 @@
-package com.example.rose.sharedpreference.fragments;
+package com.zulfikar.tugas.sharedpreference.fragments;
 
 import android.os.Bundle;
 import android.support.v7.preference.PreferenceFragmentCompat;
 
-import com.example.rose.sharedpreference.R;
+import com.zulfikar.tugas.sharedpreference.R;
 
 public class SettingsFragment extends PreferenceFragmentCompat {
     @Override
